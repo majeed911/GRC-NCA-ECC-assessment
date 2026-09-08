@@ -40,8 +40,7 @@ This assessment references the National Cybersecurity Authority's **Essential Cy
 
 ## Author
 
-**Abdalmjeed Alzaidi**
-CompTIA Security+ | Cybersecurity Graduate
+**Abdalmjeed Alzaidi** | Cybersecurity Specialist
 [GitHub](https://github.com/majeed911) | [LinkedIn](https://linkedin.com/in/Abdalmjeed-Alzaidi)
 
 > Note: This is a self-directed learning project using a fictional organization. It is not an actual audit of any real entity.
